@@ -1,0 +1,3 @@
+vertex phongTex.vs
+fragment phongTex.fs
+texture colormap.png

@@ -1,0 +1,3 @@
+vertex phong.vs
+fragment phong.fs
+texture colormap.png

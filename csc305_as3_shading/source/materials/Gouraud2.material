@@ -1,0 +1,6 @@
+vertex Gouraud2.vs
+fragment Gouraud2.fs
+texture colormap.png
+
+
+
